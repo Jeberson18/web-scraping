@@ -42,11 +42,13 @@ A local Amazon HTML file to scrape. You will need to download an Amazon product 
 Usage
 
 1. Clone the repository
+   
 To start using this project, clone the repository to your local machine:
 
 git clone https://github.com/yourusername/amazon-product-scraper.git
 
 2. Download the Amazon HTML file
+   
 Manually download an Amazon product page's HTML. After downloading, place the file in the directory where the Python script is located. For example, the script reads the file using the following path:
 
 ```
@@ -56,6 +58,7 @@ with open(r"D:\DATA ANALYTICS\python 2\Amazon_volleyball40.html", 'r', encoding=
 Make sure the file path matches the location of your HTML file.
 
 3. Run the script
+   
 Execute the script in your Python environment. The script will scrape product data from the Amazon HTML file and save it into a CSV file (Amazon_Product_Details.csv).
 
 To run the script, use the following Python code:
@@ -138,7 +141,9 @@ After running the script, you will find the CSV file (Amazon_Product_Details.csv
 
 # Files
 **Web Scraping Amazon Data:** Python script that scrapes the Amazon HTML page and extracts product details
+
 **Amazon_volleyball40.html:** HTML file containing the Amazon product page data (manually downloaded)
+
 **Amazon_Product_Details.csv:** CSV file containing the scraped product data (generated after running the script)
 
 # Contributing
