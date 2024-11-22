@@ -45,7 +45,7 @@ Usage
    
 To start using this project, clone the repository to your local machine:
 
-git clone https://github.com/yourusername/amazon-product-scraper.git
+git clone https://github.com/Jeberson18/amazon-product-scraper.git
 
 2. Download the Amazon HTML file
    
