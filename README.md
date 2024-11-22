@@ -1,4 +1,4 @@
-# Amazon Product Scraper
+# Web Scraping Amazon Data
 
 This project demonstrates how to scrape product information from an Amazon HTML page using Python. The scraper extracts details such as product names, prices, reviews, quantity sold in the past month, ratings, and original prices. The scraped data is stored in a CSV file for easy analysis and further use.
 
