@@ -137,9 +137,9 @@ print(f"Data saved to {output_path}")
 After running the script, you will find the CSV file (Amazon_Product_Details.csv) in the specified directory containing all the scraped data.
 
 # Files
-**Web Scraping Amazon Data:** Python script that scrapes the Amazon HTML page and extracts product details.
-**Amazon_volleyball40.html:** HTML file containing the Amazon product page data (manually downloaded).
-**Amazon_Product_Details.csv:** CSV file containing the scraped product data (generated after running the script).
+**Web Scraping Amazon Data:** Python script that scrapes the Amazon HTML page and extracts product details
+**Amazon_volleyball40.html:** HTML file containing the Amazon product page data (manually downloaded)
+**Amazon_Product_Details.csv:** CSV file containing the scraped product data (generated after running the script)
 
 # Contributing
 Feel free to fork this project and submit pull requests with any improvements or suggestions.
