@@ -8,7 +8,6 @@ This project demonstrates how to scrape product information from an Amazon HTML 
 3. [Usage](#usage)
 4. [Files](#files)
 5. [Contributing](#contributing)
-6. [License](#license)
 
 ## Project Overview
 
